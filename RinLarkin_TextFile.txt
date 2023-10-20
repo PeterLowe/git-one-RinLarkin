@@ -3,6 +3,10 @@ Rin Larkin - Assignment One
 git init
 - creates a new git repository
 
+git remote
+- git remote add <name> <url>
+- creates a new remote repository
+
 git status
 - lists files, such as modified files in the working area, as well as added files in the staging area.
 
@@ -17,6 +21,11 @@ git push
 - git push -u origin main/master
 - updates remote node with current node
 - pushes local main to origin on the server
+
+git branch
+- git branch new_branch_name
+- creates a new branch in the local directory
+
 
 
 
