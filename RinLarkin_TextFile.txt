@@ -9,3 +9,14 @@ git status
 git add
 - adds files to the next commit, but ignores files matching with .gitignore
 
+git commit
+- git commit -m “name”
+- creates a new revision line on the local repository
+
+git push
+- git push -u origin main/master
+- updates remote node with current node
+- pushes local main to origin on the server
+
+
+
