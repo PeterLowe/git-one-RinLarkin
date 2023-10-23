@@ -26,6 +26,18 @@ git branch
 - git branch new_branch_name
 - creates a new branch in the local directory
 
+git checkout
+- makes node the current HEAD
+- ensure the working directory matches the node/commit
+- won’t work if there are modified files
+
+git log
+- displays entire commit history
+- <space> for the next page
+- <q> to quit
+
+
+
 
 
 
