@@ -36,6 +36,10 @@ git log
 - <space> for the next page
 - <q> to quit
 
+git rm
+- removes file from the repository
+
+
 
 
 
